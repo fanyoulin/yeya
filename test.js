@@ -1,7 +1,7 @@
 // console.log(textMatches(/(.*reactivate.*)/).findOne(10000));
 
 
-
+//分支
 //测试
 log("---------------------------------------------------------------")
 if (text("Save Login Information").exists()&&text("Log In").exists()) {
